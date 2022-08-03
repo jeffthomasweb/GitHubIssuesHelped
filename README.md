@@ -2,3 +2,4 @@
 
 **Jsoup**  
 https://github.com/jhy/jsoup/issues/1813
+https://github.com/jhy/jsoup/issues/1815
