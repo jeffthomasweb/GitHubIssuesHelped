@@ -7,7 +7,8 @@ https://github.com/jhy/jsoup/issues/1815
 https://github.com/jhy/jsoup/issues/1803  
 https://github.com/jhy/jsoup/issues/1767  
 https://github.com/jhy/jsoup/issues/1816  
-https://github.com/jhy/jsoup/issues/1802
+https://github.com/jhy/jsoup/issues/1802  
+https://github.com/jhy/jsoup/issues/1808
 
 ## Pull Requests   
 **Jsoup**  
