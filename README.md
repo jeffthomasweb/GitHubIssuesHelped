@@ -1,7 +1,7 @@
 # GitHub Issues and Pull Requests I've helped troubleshoot, duplicate, or reviewed  
 
 ## Issues  
-**Jsoup**  
+**Jsoup, a Java webscraper**  
 https://github.com/jhy/jsoup/issues/1813  
 https://github.com/jhy/jsoup/issues/1815  
 https://github.com/jhy/jsoup/issues/1803  
@@ -9,6 +9,9 @@ https://github.com/jhy/jsoup/issues/1767
 https://github.com/jhy/jsoup/issues/1816  
 https://github.com/jhy/jsoup/issues/1802  
 https://github.com/jhy/jsoup/issues/1808
+
+**Colly, a Golang webscrape**  
+https://github.com/gocolly/colly/issues/718  
 
 ## Pull Requests   
 **Jsoup**  
