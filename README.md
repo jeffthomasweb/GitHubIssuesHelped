@@ -10,8 +10,8 @@ https://github.com/jhy/jsoup/issues/1816
 https://github.com/jhy/jsoup/issues/1802  
 https://github.com/jhy/jsoup/issues/1808
 
-**Colly, a Golang webscrape**  
-https://github.com/gocolly/colly/issues/718  
+**Django-cors-headers, a Python/Django tool to help manage CORS headers**  
+https://github.com/adamchainz/django-cors-headers/issues/776  
 
 ## Pull Requests   
 **Jsoup**  
