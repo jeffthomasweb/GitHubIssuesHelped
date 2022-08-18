@@ -12,6 +12,7 @@ https://github.com/jhy/jsoup/issues/1808
 
 **Django-cors-headers, a Python/Django tool to help manage CORS headers**  
 https://github.com/adamchainz/django-cors-headers/issues/776  
+https://github.com/adamchainz/django-cors-headers/issues/787  
 
 ## Pull Requests   
 **Jsoup**  
