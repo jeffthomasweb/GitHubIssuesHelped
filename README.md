@@ -11,8 +11,7 @@ https://github.com/jhy/jsoup/issues/1802
 https://github.com/jhy/jsoup/issues/1808  
 https://github.com/jhy/jsoup/issues/1828  
 https://github.com/jhy/jsoup/issues/1833  
-https://github.com/jhy/jsoup/issues/1863  
-https://github.com/jhy/jsoup/issues/1865  
+https://github.com/jhy/jsoup/issues/1863   
 https://github.com/jhy/jsoup/issues/1857  
 https://github.com/jhy/jsoup/issues/1859  
 
